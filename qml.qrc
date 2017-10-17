@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Clock.qml</file>
+	<file>assets/clock-face.png</file>
+	<file>assets/second.png</file>
+	<file>assets/minute.png</file>
+	<file>assets/hour.png</file>
+    </qresource>
+</RCC>
