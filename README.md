@@ -1,7 +1,7 @@
 # Analog Clock QML
 Simple analog clock written in qml
 
-![chip-8 ibm](https://i.imgur.com/N1JDE4D.png)
+![analog-clock](https://i.imgur.com/N1JDE4D.png)
 
 License
 -------
